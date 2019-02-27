@@ -8,3 +8,4 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
 <img src="https://storage.googleapis.com/kaggle-media/competitions/santander/atm_image.png" width="400" height="300" >
 
+I am working on Training set and i got 91% accuracy on training set
